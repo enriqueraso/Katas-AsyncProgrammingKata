@@ -42,3 +42,32 @@ oj is ready
 Breakfast is ready!
 ```
 
+In an asynchronous programming we can obtain a result like this:
+
+```
+Pouring coffee
+coffee is ready
+Warming the egg pan...
+putting 3 slices of bacon in the pan
+cooking first side of bacon...
+Putting a slice of bread in the toaster
+Putting a slice of bread in the toaster
+Start toasting...
+cracking 2 eggs
+cooking the eggs ...
+flipping a slice of bacon
+flipping a slice of bacon
+flipping a slice of bacon
+cooking the second side of bacon...
+Remove toast from toaster
+Putting butter on the toast
+Putting jam on the toast
+toast is ready
+Put bacon on plate
+Put eggs on plate
+bacon is ready
+eggs are ready
+Pouring orange juice
+oj is ready
+Breakfast is ready!
+```
